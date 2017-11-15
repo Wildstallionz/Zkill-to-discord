@@ -1,7 +1,6 @@
 {
   "queueID": "randomQueueId",
-  "discordHookID": "enter the discord hook id",
-  "discordHookToken": "enter the discord hook token",
-  "corpID": "98388312",  
-  "allianceID": "1354830081"  
+  "discordHookID": "zKill",
+  "discordHookToken": "https://discordapp.com/api/webhooks/380107703806328832/JIbW_9ew1nQx_7qn_DaMWcJQMPM9gGv0JVjSapCxvx-twCLahb8eAwbbKqUQDQCoaR8l",
+  "characterID": "96859167", 
 }
